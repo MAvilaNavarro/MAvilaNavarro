@@ -2,6 +2,6 @@
 
 <div background-color="rgb(48, 49, 49)">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dfqha9pj637fzcbavs8pmpou8&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=dfqha9pj637fzcbavs8pmpou8&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=dfqha9pj637fzcbavs8pmpou8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=dfqha9pj637fzcbavs8pmpou8&redirect=true)
 
 </div>
